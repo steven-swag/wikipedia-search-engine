@@ -13,8 +13,9 @@ The results are displayed dynamically without page reloads.
 - CSS
 - JavaScript (Fetch API)
 
-### 📦 API Used
-[Wikipedia Search API (CCBP Endpoint)](https://apis.ccbp.in/wiki-search)
+
+## 🚀 Live Demo
+🔗 **Live Website:** https://wikipedia-search-engine-3csy.onrender.com
 
 ### ScreenShot
 
